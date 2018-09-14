@@ -1,6 +1,5 @@
 
-**[entrar direto Github?]
-  https://github.com/desenvolvedorIcotrade/React-Native-Android
+
 
 # [Start Bootstrap - Modern Business](https://startbootstrap.com/template-overviews/modern-business/)
 
